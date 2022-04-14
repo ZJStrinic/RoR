@@ -21,5 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Jedan dva tri četiri pet 
 * ...
 # RoR
