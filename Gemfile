@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+ruby "3.1.1"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
@@ -30,6 +31,7 @@ gem 'font-awesome-sass', '~> 4.7'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.8', '>= 4.8.1'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'ransack', '~> 2.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
